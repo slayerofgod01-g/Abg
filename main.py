@@ -63,4 +63,4 @@ def run_web():
 Thread(target=run_web).start()
 
 # Run the bot using the token from environment variables
-bot.run(os.environ["MTM2OTQ4OTc3MTQxNTYwMTIyMw.GzLSdY.GzQfQ0TXRs_Fun6ycemQKUjj6t7mKPCrYweF2w"])
+bot.run(os.environ["DISCORD_TOKEN"])
